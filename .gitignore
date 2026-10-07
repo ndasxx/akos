@@ -1,0 +1,6 @@
+build/
+*.o
+tank_sim
+*.log
+tests/out/
+documentation/
